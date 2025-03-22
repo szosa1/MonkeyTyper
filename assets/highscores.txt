@@ -1,0 +1,6 @@
+Name:		Score:
+Player1		214
+player2		52
+player3		71
+player4		18
+player5		76
