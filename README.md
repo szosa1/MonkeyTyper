@@ -1,2 +1,2 @@
 # MonkeyTyper
-MonkeyTyper Project
+MonkeyTyper with interacjtive GUI using SFML
